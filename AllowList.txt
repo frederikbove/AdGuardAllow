@@ -1,1 +1,1 @@
-@@ || formula1.com ^ $ document
+@@||formula1.com^
